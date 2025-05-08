@@ -1,0 +1,15 @@
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\bin\Debug\net8.0\C#dotNet.exe
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\bin\Debug\net8.0\C#dotNet.deps.json
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\bin\Debug\net8.0\C#dotNet.runtimeconfig.json
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\bin\Debug\net8.0\C#dotNet.dll
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\bin\Debug\net8.0\C#dotNet.pdb
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.dll
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\refint\C#dotNet.dll
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.pdb
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\ref\C#dotNet.dll
+C:\Users\galin\OneDrive\Desktop\C#dotNet\C#dotNet\obj\Debug\net8.0\C#dotNet.sourcelink.json
