@@ -1,0 +1,40 @@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@using SampleDotNetCoreWithBootstrap.Models
+
+@{
+    var inventoryList = new List<Inventory>();
+        inventoryList.Add(new Inventory(01, "Adidas", "Wow!", 0000, 1, "4-3-21"));
+        inventoryList.Add(new Inventory(02, "Nike", "I like this one!", 0001, 2, "4-3-21"));
+        inventoryList.Add(new Inventory(03, "Puma", "Great", 0002, 3, "4-3-21"));
+        inventoryList.Add(new Inventory(04, "Converse", "I love it!", 0003, 4, "4-3-21"));
+        inventoryList.Add(new Inventory(05, "Under Armour", "SC30", 0004, 5, "4-3-21"));
+}
+<table class = "table table-hover">
+    <thead class = "text-center">
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>DESCRIPTION</th>
+            <th>CODE</th>
+            <th>QUANTITY</th>
+            <th>DATE</th>
+        </tr>
+    </thead>
+    <tbody class = "text-center">
+        @{
+            foreach(var Inventory in inventoryList) {
+                <tr>
+                    <td>@Inventory.ItemID</td>
+                    <td>@Inventory.ItemName</td>
+                    <td>@Inventory.ItemDescription</td>
+                    <td>@Inventory.ItemCode</td>
+                    <td>@Inventory.Quantity</td>
+                    <td>@Inventory.CreateDate</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
